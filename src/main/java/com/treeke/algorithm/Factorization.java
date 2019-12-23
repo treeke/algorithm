@@ -2,6 +2,11 @@ package com.treeke.algorithm;
 
 import java.util.List;
 
+/**
+ * 因式分解
+ * @author treeke
+ *
+ */
 public class Factorization {
 	public static void main(String[] args) {
 		factorizationTest(90);
