@@ -8,7 +8,7 @@ public class MyHashMap {
 
     /** Initialize your data structure here. */
     public MyHashMap() {
-        arr = new Object[size];
+        arr = new Object[(int)Math.pow(10,6)];
     }
 
     /** value will always be non-negative. */
