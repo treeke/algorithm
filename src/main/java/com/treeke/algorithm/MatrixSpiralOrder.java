@@ -8,6 +8,8 @@ import java.util.List;
  * 示例 1：
  * 输入：matrix = [[1,2,3],[4,5,6],[7,8,9]]
  * 输出：[1,2,3,6,9,8,7,4,5]
+ *
+ * 可优化  详见螺旋矩阵2
  */
 public class MatrixSpiralOrder {
 
