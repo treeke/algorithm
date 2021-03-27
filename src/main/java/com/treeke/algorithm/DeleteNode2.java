@@ -1,12 +1,11 @@
 package com.treeke.algorithm;
 
 import java.util.LinkedList;
-import java.util.Stack;
 
-public class DeleteNode {
+public class DeleteNode2 {
 
     public static void main(String[] args) {
-        DeleteNode deleteNode = new DeleteNode();
+        DeleteNode2 deleteNode = new DeleteNode2();
         ListNode listNode = new ListNode(1, new ListNode(2,new ListNode(2, new ListNode(2, new ListNode(5,null)))));
         //ListNode listNode = new ListNode(1, new ListNode(2,new ListNode(3, new ListNode(5, new ListNode(5,null)))));
         //ListNode listNode = new ListNode(1, new ListNode(1,new ListNode(3, new ListNode(5, new ListNode(5,null)))));
